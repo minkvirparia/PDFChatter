@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+accelerate
+bitsandbytes
+huggingface_hub
+langchain
+langchain-chroma
+langchain-community
+langchain-huggingface
+pypdf
+streamlit
+tokenizers==0.20.0
+transformers
+sentence-transformers
